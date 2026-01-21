@@ -5,6 +5,7 @@ site_url: https://survival-expanded.github.io
 
 repo_name: survival-expanded.github.io
 repo_url: https://github.com/Survival-Expanded/survival-expanded.github.io
+edit_uri: blob/main/docs/
 
 theme:
   name: material
